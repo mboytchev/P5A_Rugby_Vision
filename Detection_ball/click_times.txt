@@ -1,0 +1,4 @@
+9.99 seconds, frame 1200
+10.45 seconds, frame 1255
+23.69 seconds, frame 2844
+28.38 seconds, frame 3406

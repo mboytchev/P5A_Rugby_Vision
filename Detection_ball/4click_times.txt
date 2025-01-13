@@ -1,0 +1,3 @@
+13.30 seconds, frame 1198
+31.68 seconds, frame 2852
+37.87 seconds, frame 3409
