@@ -1,4 +1,4 @@
-Video: segment_1.mp4, Frame: 74, Position: (852, 537), Rentree : Oui
-Video: segment_2.mp4, Frame: 115, Position: (1329, 559), Rentree : Non
-Video: segment_3.mp4, Frame: 111, Position: (1608, 514), Rentree : Non
-Video: segment_4.mp4, Frame: 61, Position: (1327, 537), Rentree : Non
+Video: segment_1.mp4, Frame: 111, Position: (850, 537), Rentree : Oui
+Video: segment_2.mp4, Frame: 117, Position: (1328, 559), Rentree : Non
+Video: segment_3.mp4, Frame: 51, Position: (1610, 514), Rentree : Non
+Video: segment_4.mp4, Frame: 87, Position: (1327, 541), Rentree : Non
