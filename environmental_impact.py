@@ -52,4 +52,4 @@ def calculate_impact(consumption_kwh):
         print(f"An error occurred: {e}")
 
 # Example usage
-calculate_impact(consumption_kwh=1.325)
+# calculate_impact(consumption_kwh=1.325)
