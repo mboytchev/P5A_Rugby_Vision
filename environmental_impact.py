@@ -8,7 +8,8 @@ def calculate_impact(consumption_kwh):
     token = 'mkghuvLIc24M7'
 
     # Define the API endpoint and headers
-    url = 'https://api.electricitymap.org/v3/carbon-intensity/latest'
+    url = 'https://api.electricitymap.org/v3/carbon-intensity/latest?zone=SG' #Adjusted for Singapore (for Collab)
+    # url = 'https://api.electricitymap.org/v3/carbon-intensity/latest?zone=FR' #Adjusted for France (for Local)
     headers = {
         'auth-token': token
     }
